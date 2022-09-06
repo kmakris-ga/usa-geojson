@@ -1,0 +1,19 @@
+{
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          39.3432933,
+          -100.3641873
+        ]
+      ]
+    ]
+  },
+  "type": "Feature",
+  "id": "00000",
+  "properties": {
+    "ALAND10": 18401940,
+    "AWATER10": 0
+  }
+}
