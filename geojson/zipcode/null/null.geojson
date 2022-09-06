@@ -1,14 +1,7 @@
 {
   "geometry": {
     "type": "Point",
-    "coordinates": [
-      [
-        [
-          39.3432933,
-          -90
-        ]
-      ]
-    ]
+    "coordinates": [39.3432933,-90]
   },
   "type": "Feature",
   "id": "00000",
