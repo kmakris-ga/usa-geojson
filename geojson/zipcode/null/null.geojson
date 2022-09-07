@@ -1,12 +1,10 @@
 {
+  "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [34.1644492,-95.0966956]
+    "coordinates": [125.6, 10.1]
   },
-  "type": "Feature",
-  "id": "00000",
   "properties": {
-    "ALAND10": 18401940,
-    "AWATER10": 0
+    "name": "Dinagat Islands"
   }
 }
